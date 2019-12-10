@@ -1,7 +1,7 @@
 # file-demo
 This is a tutorial on how to upload files in SpringBoot with RESTFul API
 
-There are many APIs that we often use in our daily work
+There are fundamental APIs which penetrate very nook and cranny of Apps.
 
 - upload file
 - upload batch files
