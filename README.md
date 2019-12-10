@@ -1,5 +1,5 @@
 # file-demo
-This is a tutorial on how to upload files in SpringBoot with RESTFul API
+This is a tutorial on how to upload and download files in SpringBoot with RESTFul API
 
 There are fundamental APIs which penetrate very nook and cranny of Apps.
 
